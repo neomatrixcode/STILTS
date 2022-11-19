@@ -1,5 +1,5 @@
 # STILTS
-Tool Set is a set of command-line tools based on STIL, taken out http://www.star.bris.ac.uk/~mbt/stilts/
+The STIL Tool Set is a set of command-line tools based on STIL, taken out http://www.star.bris.ac.uk/~mbt/stilts/
 
 Version 3.4-7 released 5 October 2022
 
